@@ -20,5 +20,9 @@
   "homepage": "https://github.com/smeads/node-typescript-app#readme",
   "dependencies": {
     "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "tslint": "^5.12.1",
+    "typescript": "^3.2.4"
   }
 }
